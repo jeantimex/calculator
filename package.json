@@ -1,6 +1,6 @@
 {
   "name": "@jeantimex/calculator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A UMD calculator",
   "main": "dist/calculator.js",
   "husky": {
